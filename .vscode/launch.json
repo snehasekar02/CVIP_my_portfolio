@@ -7,9 +7,8 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Launch Chrome against localhost",
-            "url": "http://127.0.0.1:3000/my_portfolio/index.html",
-            "webRoot": "${workspaceFolder}"
+            "name": "Open index.html",
+            "file": "d:\\coderscave\\my_portfolio\\my_portfolio\\index.html"
         }
     ]
 }
